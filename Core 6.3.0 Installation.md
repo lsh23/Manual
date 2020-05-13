@@ -21,11 +21,10 @@ We must set python 3.6.0~3.6.9 as the system python version.
 - Download - [Python-3.6.9.tar.xz](https://www.python.org/ftp/python/3.6.9/Python-3.6.9.tar.xz) 
 - Extract the .tar.xz.file
 - `cd Python-3.6.9`
--  `./configure`
-    `make`
-    `make test`
+-  `./configure`<br/>
+    `make`<br/>
+    `make test`<br/>
     `sudo make install`
-    
 # Install Pre-Req package 
 For install CORE,
 There are some pre-req packages
@@ -47,16 +46,16 @@ There are some pre-req packages
  To run CORE,
  You have to command these lines on terminal.
 
-`sudo systemctl daemon-reload`
-`sudo systemctl start core-daemon`
-
-`sudo service core-daemon start`
-`sudo core-daemon`
-
+`sudo systemctl daemon-reload`<br/>
+`sudo systemctl start core-daemon`<br/>
+<br/>
+`sudo service core-daemon start`<br/>
+`sudo core-daemon`<br/>
+<br/>
 `core-gui`  
 
  After first initial running,
  You  just need these two line.
 
- `sudo core-daemon`
+ `sudo core-daemon`<br/>
 `core-gui`  
