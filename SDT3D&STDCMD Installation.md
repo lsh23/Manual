@@ -3,7 +3,7 @@
 This document is installation manual for sdt3d & sdtcmd.
 
 Recommend Environment
-> OS - Ubuntu 18.04
+> OS - Ubuntu 18.04<br/>
 > Default JDK - Oracle JDK 1.7.0__80
 # Set Default Oracle JDK
 
