@@ -35,7 +35,7 @@ There are some pre-req packages
 
 ## Install ant.1.9.x
 
-- Download - [apache-ant-1.9.14-bin.tar.gz](ftp://ftp.osuosl.org/pub/apache//ant/binaries/apache-ant-1.9.14-bin.tar.gz)
+- Download - [apache-ant-1.9.14-bin.tar.gz](http://mirrors.ibiblio.org/apache//ant/binaries/apache-ant-1.9.14-bin.tar.gz)
 - Extract the .tar.gz file
 - Set the ant for system<br/>
 `sudo update-alternatives --install "/usr/bin/ant" "ant" "Directory where ant has been extracted>/bin/ant" 1`
