@@ -9,7 +9,7 @@ Recommend Environment
 
 Std3d is written by  Java using WorldWinds opensource JDK. 
 Offical Std3d Document recommend to set Oracle JDK 1.7.0__80 as the system default JDK.
-- Download Oracle JDK  - jdk-7u80-linux-x64.tar.gz
+- Download Oracle JDK  - jdk-7u80-linux-x64.tar.gz <br/>
 [https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html)
 - Set Defualt JDK, Using update-alternatives<br/>
 `sudo update-alternatives --install "/usr/bin/java" "java" "Directory where JAVA has been extracted>/bin/java" 1`<br/>
