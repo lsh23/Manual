@@ -63,7 +63,7 @@ There are some pre-req packages
   You can get the sdt3d.zip ,Sdtcmd binary file and sdt bianry file.
 
   After extract sdt3d.zip
-  Copy all files and directorys in extractecd directory to '/usr/local/bin'
+  Copy all files and directorys in extractecd directory to '/usr/local/bin'<br/>
   `cp -R ./sdt3d/* /usr/local/bin/`<br/>
   
  
