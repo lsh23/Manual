@@ -41,7 +41,7 @@ There are some pre-req packages
 `sudo update-alternatives --install "/usr/bin/ant" "ant" "Directory where ant has been extracted>/bin/ant" 1`
 
 ## Install wxWidgets-2.8.12
-- Install pre-req packages
+- Install pre-req packages<br/>
 ` sudo apt-get install python-wxgtk2.8 python-wxtools wx2.8-i18n libwxgtk2.8-dev libgtk2.0-dev`
 - Download - [wxWidgets-2.8.12.zip](https://github.com/wxWidgets/wxWidgets/releases/download/v2.8.12/wxMSW-2.8.12.zip)
 - Extract the zip and Install<br/>
