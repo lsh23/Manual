@@ -11,9 +11,9 @@ You can probably install and run CORE 6.3.0 without any problem)
 
 # Set Default Python version
 
-The CORE 6.3.0 is base on python-3.6.0~3.6.9
-We must set python 3.6.0~3.6.9 as the system python version.
-**(if your default python is 3.6.0~3.6.9, you don't need this step)**
+The CORE 6.3.0 is base on python-3.6.0-3.6.9 </br>
+We must set python 3.6.0~3.6.9 as the system python version.</br>
+(if your default python is 3.6.0-3.6.9, you don't need this step)
 
 > **how to check default python version**
 > `python3 --version`
