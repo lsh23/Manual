@@ -41,7 +41,8 @@ Environment
 ![6](./Pictures/5.png)
 
 
-
+**video instruction**
+ * [Quick Tutorial Video - simulation on CORE&SDT3D](https://youtu.be/QXDRzjHuMwo)
 
 
 # Control the sdt3d, using sdtcmd
